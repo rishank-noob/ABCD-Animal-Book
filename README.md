@@ -13,7 +13,7 @@ The book is live: [ABCD ANIMALS BOOK](https://bubbl.in/cover/abcd-animal-book-by
 
 Slight framerate (FPS) quirks might occur due to the hacky use of CSS3 animations. Just for the fun of it.
 
-## HOW TO INSTALL IT ON THE iPAD FOR THE BABY
+## HOW TO INSTALL IT ON THE iPAD FOR A PERSON
 
 - Open the [book](https://bubbl.in/cover/abcd-animal-book-by-judith-neumann) on Safari.
 - Tap the Share button at the top of the screen.
